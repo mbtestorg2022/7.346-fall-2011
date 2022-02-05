@@ -41,18 +41,177 @@ This course is graded pass/fail. The grading will be based on regular participat
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction and Course Overview | &nbsp; |
-| 2 | ER Quality Control and Degradation | &nbsp; |
-| 3 | Discovery of Ubiquitin as a Tag for Proteasomal Degradation | &nbsp; |
-| 4 | The Ubiquitin Conjugation Cascade | &nbsp; |
-| 5 | Biology Seminar, Proteotoxicity of β-aggregation: Mechanisms and defense by molecular chaperones. Harvard Medical School, Boston. Speaker: Dr. F. Ulrich Hartl from Max Planck Institute of Biochemistry, Germany | &nbsp; |
-| 6 | Biochemical Approaches to Measure Protein Dislocation | &nbsp; |
-| 7 | The Putative Dislocon: Lessons from Yeast and Mammalian Systems | &nbsp; |
-| 8 | Substrate Recognition: The Glycan Destruction Signal for ERAD | Midterm Assignment is due |
-| 9 | Cytosolic Regulation of Misfolded/Mislocalized Protein Degradation | &nbsp; |
-| 10 | Viral Avoidance and Exploitation of the Ubiquitin Proteasome System | &nbsp; |
-| 11 | Toxin Invasion through the ERAD Machinery | &nbsp; |
-| 12 | Student Oral Presentations | Student Oral Presentations |
-| 13 | ER-associated Degradation in Disease |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction and Course Overview
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+ER Quality Control and Degradation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Discovery of Ubiquitin as a Tag for Proteasomal Degradation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Ubiquitin Conjugation Cascade
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Biology Seminar, Proteotoxicity of β-aggregation: Mechanisms and defense by molecular chaperones. Harvard Medical School, Boston. Speaker: Dr. F. Ulrich Hartl from Max Planck Institute of Biochemistry, Germany
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemical Approaches to Measure Protein Dislocation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Putative Dislocon: Lessons from Yeast and Mammalian Systems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Substrate Recognition: The Glycan Destruction Signal for ERAD
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Assignment is due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Cytosolic Regulation of Misfolded/Mislocalized Protein Degradation
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Viral Avoidance and Exploitation of the Ubiquitin Proteasome System
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Toxin Invasion through the ERAD Machinery
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Student Oral Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+ER-associated Degradation in Disease
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
